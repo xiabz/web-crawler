@@ -1,0 +1,3 @@
+Difference between BFS and DFS:
+BFS put priority to the near seed url
+DFS crawl to the bottom depth and then traceback to the upper level

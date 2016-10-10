@@ -1,0 +1,5 @@
+Use BFS crawl (the same in task1) to run two links. 
+Compare the depth of links, put the shallower depth in the front.
+When two depth is equal, cross two lists into one.
+Count the merge link, it would crawl at most 1000 links.
+if without set to remove duplicates, it will be fast.
